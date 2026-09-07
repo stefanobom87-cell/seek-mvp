@@ -1,0 +1,10 @@
+backend/.env
+backend/.venv/
+backend/downloads/
+backend/app/__pycache__/
+backend/app/providers/__pycache__/
+frontend/node_modules/
+frontend/.expo/
+frontend/ios/Pods/
+frontend/ios/build/
+.DS_Store
