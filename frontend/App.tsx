@@ -42,7 +42,7 @@ type Probe = {
   formats: FormatItem[];
 };
 
-const API = "http://192.168.1.18:8000";
+const API = "https://seek-mvp.onrender.com";
 
 function humanBytes(n?: number | null) {
   if (!n) return "";
